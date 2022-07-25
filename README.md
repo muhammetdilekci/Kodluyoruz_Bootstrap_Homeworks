@@ -17,3 +17,5 @@ Bu ödevde Bootstrap kullanılarak Instagram Clone yapılmıştır. Bu ödevde a
 ## Ödev - 3
 
 Bu ödevde Bootstrap kullanarak Linked-in Clone yapılmıştır. Amaç layout yapısını kavrayabilmek olduğundan yapıların çalışıp çalışmaması göz ardı edilmiştir.
+
+![bootstrap-linkedin](https://user-images.githubusercontent.com/71905489/180791480-c19eb62c-f8bf-4b41-a300-c797a3d00f36.png)
